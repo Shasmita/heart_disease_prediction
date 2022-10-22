@@ -1,6 +1,8 @@
 # heart_disease_prediction
-
-python -m venv vir 
-./vir/Scripts/Activate
-pip install -r requirements.txt
-streamlit run "app.py"
+ <br />``` python -m venv vir ```
+ <br />
+``` ./vir/Scripts/Activate ```
+ <br />
+``` pip install -r requirements.txt ```
+ <br />
+``` streamlit run "app.py" ```
